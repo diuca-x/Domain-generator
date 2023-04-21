@@ -1,5 +1,4 @@
-import "bootstrap";
-import "./style.css";
+
 
 var pronoun = ["the", "our"];
 var adj = ["great", "big"];
